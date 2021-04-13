@@ -7,6 +7,8 @@
 </p>
 
 > A Simple Iframe Based MDT Helper
+> Native [EmergencyOS](https://ancomox.com/products/emergencyos) Support
+> Integration of the EOS API (soon)
 
 ### 🏠 [Homepage](https://studio-v.net)
 
