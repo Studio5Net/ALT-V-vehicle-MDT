@@ -18,6 +18,7 @@
 
 * Website: https://studio-v.net
 * Github: [@Studio5Net](https://github.com/Studio5Net)
+* Exklusive Releases: [Patreon](https://www.patreon.com/Studio5net)
 
 ## 🤝 Contributing
 
