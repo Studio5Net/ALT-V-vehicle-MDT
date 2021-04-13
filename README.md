@@ -12,8 +12,6 @@
 > 
 > Integration of the EOS API (soon)
 
-### 🏠 [Homepage](https://studio-v.net)
-
 ## Author
 
 👤 **Studio5**
@@ -29,10 +27,16 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
+## Setup
+
+* Drag and Drop the Folder into the Resources folder of your Server.
+* Enable it by adding the folder to the Server.cfg
+* Change the Configuration to your Domain ( see Index.html line 13 & 14)
+* (optional) Change the Keys to open the MDT (see Index.mjs line 20)
+* Enjoy!
+
 ## 📝 License
 
 Copyright © 2021 [Studio5](https://github.com/Studio5Net).<br />
 This project is [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0.de.html) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
