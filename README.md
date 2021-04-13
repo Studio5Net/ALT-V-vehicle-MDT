@@ -1,4 +1,4 @@
-<h1 align="center">[ALT:V](https://Altv.mp) Vehicle MDT 👋</h1>
+# [AltV](https://altv.mp//) Vehicle MDT 👋
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://www.gnu.org/licenses/gpl-3.0.de.html" target="_blank">
