@@ -40,3 +40,5 @@ Give a ⭐️ if this project helped you!
 Copyright © 2021 [Studio5](https://github.com/Studio5Net).<br />
 This project is [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0.de.html) licensed.
 
+## Playing around with github features like Readme format n stuff in here as well!
+
