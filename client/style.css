@@ -1,0 +1,32 @@
+/* Custom ALT:V MDT by Studio-v.net */
+
+body {
+    -webkit-user-select: none; /* Safari 3.1+ */
+    -moz-user-select: none; /* Firefox 2+ */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none; /* Standard syntax */
+}
+
+.wrapper {
+    background-image: url(img/bildschirmbg.png);
+    position: absolute;
+    width: 1728px;
+    height: 974px;
+    bottom: 0%;
+    left: 40%;
+    margin-top: -420px;
+    margin-left: -700px;
+    font-family: Calibri;
+    background-size: cover;
+    overflow: hidden;
+    display:none;
+}
+
+.content {
+    position: absolute;
+    top: 110px;
+    left: 180px;
+    width: 1330px;
+    height: 750px;
+    display:none;
+}
